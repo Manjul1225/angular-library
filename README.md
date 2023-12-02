@@ -125,4 +125,3 @@ Have a bug or a feature request? Please first read the [issue guidelines](https:
 Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://github.com/Ismaestro/angular-example-library/blob/master/LICENSE).
 
 Enjoy :metal:
-
